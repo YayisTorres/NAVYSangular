@@ -1,5 +1,7 @@
 # 🛍️ Navy's - Sistema de Gestión de Tienda Online
 
+**Numero de equipo "13"**
+
 **Nombres**
 - Nombre: Guadalupe Dayanira Torres Quiroz
 - María de Lourdes Hernández Hernández
