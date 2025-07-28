@@ -444,7 +444,7 @@ src/
 
 ## 🚀 Despliegue
 
-### Frontend (Vercel/Netlify)
+### Frontend (firebase)
 ```bash
 ng build --prod
 # Subir dist/ a tu plataforma de hosting
@@ -467,4 +467,5 @@ ng build --prod
 
 **Tu Nombre**
 - Nombre: Guadalupe Dayanira Torres Quiroz
+- María de Lourdes Hernández Hernández
 - Email: torresquirozdayanira@gmail.com
