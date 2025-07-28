@@ -21,7 +21,6 @@ Una aplicación web completa para la gestión de una tienda de vestidos de XV a�
 - **Sistema de favoritos** personalizado
 - **Carrito de compras** con persistencia
 - **Proceso de checkout** completo
-- **Seguimiento de pedidos** en tiempo real
 - **Perfil de usuario** editable
 
 ### 🔧 Para Administradores
