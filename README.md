@@ -1,12 +1,14 @@
-# 🛍️ Navy's - Sistema de Gestión de Tienda Online
+🛒 
 
-**Numero de equipo "13"**
+# 🛒  Navy's - Sistema de Gestión de Tienda Online
 
-**Nombres**
-- Nombre: Guadalupe Dayanira Torres Quiroz
-- María de Lourdes Hernández Hernández
+## NUMERO DE EQUIPO "13"
 
-Una aplicación web completa para la gestión de una tienda de vestidos de XV años y bautizos, desarrollada con **Angular 18** en el frontend y **Laravel** como API backend.
+## INTEGRANTE DEL EQUIPO
+-  Guadalupe Dayanira Torres Quiroz (Frontend)
+- María de Lourdes Hernández Hernández(Backend)
+
+## Una aplicación web completa para la gestión de una tienda de vestidos de XV años y bautizos, desarrollada con **Angular 18** en el frontend y **Laravel** como API backend.
 
 ## 📋 Tabla de Contenidos
 
