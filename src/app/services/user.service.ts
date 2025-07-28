@@ -10,7 +10,7 @@ export class UserService {
   private http = inject(HttpClient);
   private authService = inject(AuthService);
   private apiUrl =
-    'https://larabel-backend-navys-production.up.railway.app/api';
+    'https://produccionnavyslaravel-production.up.railway.app/api';
 
   getAllUsers(page = 1): Observable<any> {
     return this.http.get(`${this.apiUrl}/users?page=${page}`, {

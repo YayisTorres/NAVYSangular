@@ -107,7 +107,7 @@ export class OrderService {
   private authService = inject(AuthService);
   private cartService = inject(CartService);
   private apiUrl =
-    'https://larabel-backend-navys-production.up.railway.app/api';
+    'https://produccionnavyslaravel-production.up.railway.app/api';
 
   /**
    * Obtener todos los pedidos del usuario

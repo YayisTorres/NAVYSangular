@@ -43,7 +43,7 @@ export class CartService {
   private http = inject(HttpClient);
   private authService = inject(AuthService);
   private apiUrl =
-    'https://larabel-backend-navys-production.up.railway.app/api';
+    'https://produccionnavyslaravel-production.up.railway.app/api';
 
   // Subject para mantener el conteo del carrito actualizado
   private cartCountSubject = new BehaviorSubject<number>(0);

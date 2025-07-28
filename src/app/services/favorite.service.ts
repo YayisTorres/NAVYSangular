@@ -27,7 +27,7 @@ export class FavoriteService {
   private http: HttpClient = inject(HttpClient);
   private authService: AuthService = inject(AuthService);
   private apiUrl =
-    'https://larabel-backend-navys-production.up.railway.app/api';
+    'https://produccionnavyslaravel-production.up.railway.app/api';
 
   /**
    * Obtener todos los favoritos del usuario

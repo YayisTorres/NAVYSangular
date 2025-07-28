@@ -29,8 +29,8 @@ export class ProductService {
   private http = inject(HttpClient);
   private authService = inject(AuthService);
   private apiUrl =
-    'https://larabel-backend-navys-production.up.railway.app/api';
-  private baseUrl = 'https://larabel-backend-navys-production.up.railway.app';
+    'https://produccionnavyslaravel-production.up.railway.app/api';
+  private baseUrl = 'https://produccionnavyslaravel-production.up.railway.app';
 
   getAllProducts(filters?: any): Observable<any> {
     let url = `${this.apiUrl}/products`;

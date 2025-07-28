@@ -44,8 +44,8 @@ export class AuthService {
   private platformId = inject(PLATFORM_ID);
 
   private apiUrl =
-    'https://larabel-backend-navys-production.up.railway.app/api';
-  private baseUrl = 'https://larabel-backend-navys-production.up.railway.app';
+    'https://produccionnavyslaravel-production.up.railway.app/api';
+  private baseUrl = 'https://produccionnavyslaravel-production.up.railway.app';
   private currentUserSubject = new BehaviorSubject<User | null>(null);
   public currentUser$ = this.currentUserSubject.asObservable();
 

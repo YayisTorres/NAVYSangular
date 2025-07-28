@@ -184,7 +184,7 @@ export class UserDetailModalComponent {
   getFullImageUrl(photoPath: string): string {
     if (!photoPath) return '';
     if (photoPath.startsWith('http')) return photoPath;
-    return `https://larabel-backend-navys-production.up.railway.app/${photoPath}`;
+    return `https://produccionnavyslaravel-production.up.railway.app/${photoPath}`;
   }
 
   getInitials(name: string, lastName = ''): string {
