@@ -14,7 +14,7 @@ Una aplicación web completa para la gestión de una tienda de vestidos de XV a�
 - [Roles y Permisos](#roles-y-permisos)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 
-## 🚀 Características Principales
+##  Características Principales
 
 ### ✨ Para Clientes
 - **Catálogo de productos** con filtros avanzados
