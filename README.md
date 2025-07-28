@@ -112,7 +112,7 @@ A continuación se muestra el diagrama relacional del sistema NAVYS, que represe
 
 ### Imagen del Diagrama Relacional
 
-![Diagrama Relacional NAVYS](../mnt/data/NAVYS%20RELACIONAL.png)
+![Diagrama Relacional NAVYS](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/NAVYS%20RELACIONAL.png)
 
 ---
 
@@ -302,52 +302,52 @@ toggleFavorite(productId: string): Observable<any>
 ## 📸 Capturas de Pantalla
 
 ### 🔐 Página de Login
-![Login Page](https://via.placeholder.com/800x600/f3f4f6/374151?text=Login+Page)
+![Login Page](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/login.png)
 
 *Página de inicio de sesión con validación de formularios y diseño responsive*
 
 ### 🏠 Página Principal
-![Home Page](https://via.placeholder.com/800x600/f3f4f6/374151?text=Home+Page)
+![Home Page](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/paginaprincipal.png)
 
 *Página principal con carrusel de imágenes y productos destacados*
 
 ### ❤️ Página de Favoritos
-![Favorites Page](https://via.placeholder.com/800x600/f3f4f6/374151?text=Favorites+Page)
+![Favorites Page](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/favoritos.png)
 
 *Lista de productos favoritos del usuario con opciones de gestión*
 
 ### 📦 Mis Pedidos
-![Orders Page](https://via.placeholder.com/800x600/f3f4f6/374151?text=My+Orders)
+![Orders Page](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/pedidos.png)
 
 *Historial completo de pedidos con estados y detalles*
 
 ### 🛒 Página de Compra
-![Shopping Page](https://via.placeholder.com/800x600/f3f4f6/374151?text=Shopping+Cart)
+![Shopping Page](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/carrito.png)
 
 *Carrito de compras con productos seleccionados y cálculos*
 
 ### 💳 Página de Pago
-![Payment Page](https://via.placeholder.com/800x600/f3f4f6/374151?text=Payment+Page)
+![Payment Page](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/pagos.png)
 
 *Formulario de checkout con información de envío y pago*
 
 ### 🎠 Carrusel de Productos
-![Product Carousel](https://via.placeholder.com/800x600/f3f4f6/374151?text=Product+Carousel)
+![Product Carousel](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/carrusel.png)
 
 *Carrusel interactivo de productos con navegación automática*
 
 ### 🎛️ Panel Administrador
-![Admin Dashboard](https://via.placeholder.com/800x600/f3f4f6/374151?text=Admin+Dashboard)
+![Admin Dashboard](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/dashboartprincipal.png)
 
 *Dashboard administrativo con estadísticas y accesos rápidos*
 
 ### 👥 Administrar Usuarios
-![User Management](https://via.placeholder.com/800x600/f3f4f6/374151?text=User+Management)
+![User Management](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/administrador-usuarios.png)
 
 *Panel de gestión de usuarios con filtros y paginación avanzada*
 
 ### 📦 Administrar Productos
-![Product Management](https://via.placeholder.com/800x600/f3f4f6/374151?text=Product+Management)
+![Product Management](https://github.com/YayisTorres/NAVYSangular/blob/main/public/img/gestor-productos.png)
 
 *Sistema completo de gestión de productos con CRUD*
 
