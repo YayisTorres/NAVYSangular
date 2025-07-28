@@ -1,6 +1,6 @@
 # 🛍️ Navy's - Sistema de Gestión de Tienda Online
 
-**Tu Nombre**
+**Nombres**
 - Nombre: Guadalupe Dayanira Torres Quiroz
 - María de Lourdes Hernández Hernández
 
