@@ -360,12 +360,6 @@ toggleFavorite(productId: string): Observable<any>
 - **Control total de pedidos**
 - **Acceso a estadísticas**
 
-### 🟡 Empleado
-- **Gestión de productos** (limitada)
-- **Administración de pedidos**
-- **Atención al cliente**
-- **Reportes básicos**
-
 ### 🟢 Cliente
 - **Navegación del catálogo**
 - **Gestión de favoritos**
