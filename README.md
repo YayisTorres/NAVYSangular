@@ -5,8 +5,7 @@
 ## NUMERO DE EQUIPO "13"
 
 ## INTEGRANTE DEL EQUIPO
--  Guadalupe Dayanira Torres Quiroz (Frontend)
-- María de Lourdes Hernández Hernández(Backend)
+-  Guadalupe Dayanira Torres Quiroz 
 
 ## Una aplicación web completa para la gestión de una tienda de vestidos de XV años y bautizos, desarrollada con **Angular 18** en el frontend y **Laravel** como API backend.
 
