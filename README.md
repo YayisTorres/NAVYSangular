@@ -474,5 +474,4 @@ ng build --prod
 
 **Tu Nombre**
 - Nombre: Guadalupe Dayanira Torres Quiroz
-- María de Lourdes Hernández Hernández
 - Email: torresquirozdayanira@gmail.com
